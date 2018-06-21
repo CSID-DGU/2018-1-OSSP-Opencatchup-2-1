@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "480593568928",
+    "firebase_url": "https://instagramclone-90c83.firebaseio.com",
+    "project_id": "instagramclone-90c83",
+    "storage_bucket": "instagramclone-90c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480593568928:android:3b1134d7859e2b41",
+        "android_client_info": {
+          "package_name": "com.opencatchup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480593568928-ua3o07vvjapq0pbu9pg4bupb2t23qk4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opencatchup",
+            "certificate_hash": "c44bea02736b0b98f0a9f3823eed3eaba323f36c"
+          }
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-pzmLWdGXg-8iayN2LO0KwcBLiEXOik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480593568928:android:d406180312c0b995",
+        "android_client_info": {
+          "package_name": "opencatchup.com.culturear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480593568928-pvpn0cv1ljeov141mhuvmehvavj974g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "opencatchup.com.culturear",
+            "certificate_hash": "c44bea02736b0b98f0a9f3823eed3eaba323f36c"
+          }
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-pzmLWdGXg-8iayN2LO0KwcBLiEXOik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480593568928:android:dac77f310048e88b",
+        "android_client_info": {
+          "package_name": "tabian.com.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480593568928-ctpjnondnrfnafaqraosq1lvihpb0acs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.instagramclone",
+            "certificate_hash": "c44bea02736b0b98f0a9f3823eed3eaba323f36c"
+          }
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-pzmLWdGXg-8iayN2LO0KwcBLiEXOik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480593568928-khioas6f3032ah333r6vdrprlrt2lrnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
