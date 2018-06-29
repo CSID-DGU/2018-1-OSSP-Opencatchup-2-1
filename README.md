@@ -28,4 +28,4 @@ Android Studio 에서 APK를 추출하고 API 버전 25 안드로이드 스마�
 
 이호재(DB)
 
-메일 : hoje0711@naver.com
+메일 : hoje0711@dongguk.edu
