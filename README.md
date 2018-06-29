@@ -7,8 +7,8 @@
 라이센스
 Apache License 2.0
 
-컴파일 환경
-Android Studio, Unity
+컴파일 환경 
+Android Studio, unity
 
 실행 방법
 Android Studio 에서 APK를 추출하고 API 버전 25 안드로이드 스마트폰에 설치해서 실행한다.
